@@ -7,6 +7,6 @@
 }
 
 
-.link a:hover {
+a.link:hover {
   font-size: x-large;
 }
